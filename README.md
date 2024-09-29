@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nitin Chaube</h1>
-<h3 align="center">A passionate frontend developer and AI Engineer from India</h3>
+<h3 align="center">A passionate AI Engineer</h3>
 
 - 🔭 I’m currently working as an Analyst at TIAA.
 
