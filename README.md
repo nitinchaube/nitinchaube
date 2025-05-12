@@ -1,19 +1,24 @@
+# 👋 Hi, I'm Nitin Chaube
+https://nitinchaube.github.io/personal-website/
+## 🧠 AI Engineer | Ex-Developer at TIAA | Passionate about AI and optimizations.
+
+Welcome to my GitHub profile! I'm an AI Engineer with a strong foundation in mathematics and a passion for implementing AI concepts from the ground up. 
+
+---
+## Some of my works highlights are below:
+### 1: https://github.com/nitinchaube/KeosWorld -- An E-commerce Platform
+### 2: https://github.com/nitinchaube/CrisisInfo -- A X's disaster tweets classification and visualizer using tech such as GPT, Transformer, RAG (FAISS), etc.
+### 3: https://github.com/nitinchaube/Robocon2020 -- Codes for controlling robots using PS2/PS3 using different sensors, written in embedded C.
 
 
-<h1 align="center">Hi 👋, I'm Nitin Chaube</h1>
-<h3 align="center">A passionate AI Engineer</h3>
 
-- 🔭 I’m currently working as an Analyst at TIAA.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nitin-chaube-421572181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-chaube-421572181" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nitinchaube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nitinchaube" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📫 Connect with Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinchaube&show_icons=true&locale=en&layout=compact" alt="nitinchaube" /></p>
+- LinkedIn: [linkedin.com/in/nitin-chaube-421572181](https://www.linkedin.com/in/nitin-chaube-421572181/)
+- GitHub: [github.com/nitinchaube](https://github.com/nitinchaube)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinchaube&" alt="nitinchaube" /></p>
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
