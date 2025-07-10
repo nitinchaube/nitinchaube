@@ -4,6 +4,8 @@
 
 ## 🧠 AI Engineer | Ex-Developer at TIAA | Passionate about AI, Optimization, and Raw Implementations
 
+## Currently working on my main project which combines GenAI with a RAG architecture. Tune up for updates.
+
 Welcome to my GitHub! I'm an AI Engineer with a strong foundation in mathematics and a deep interest in understanding and building **AI systems from the ground up**. From optimization algorithms to transformer-based NLP pipelines and robotic control systems, I enjoy working on both the theoretical and applied sides of AI.
 
 ---
