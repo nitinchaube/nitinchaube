@@ -8,10 +8,12 @@
 
 *Building AI systems from the ground up, one implementation at a time*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=medium&logoColor=white)](https://nitinchaube.github.io/personal-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-chaube-421572181/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitinchaube)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nchaube@stevens.edu)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AiLchemy)
+
 
 </div>
 
