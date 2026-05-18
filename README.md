@@ -48,7 +48,7 @@ I specialize in **LLM fine-tuning**, **RAG architectures**, **MLOps**, and build
 ## 💼 Professional Experience
 
 ### 🎓 **Teaching Assistant** | Stevens Institute of Technology
-*Jan 2025 – May 2025*
+*Jan 2025 – Dec 2025*
 
 **CS 513: Knowledge Discovery and Data Mining**
 - Enabled delivery of graduate-level machine learning and data mining curriculum
